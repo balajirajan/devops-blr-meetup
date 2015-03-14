@@ -7,6 +7,7 @@ March meetup agenda
 
 ## Confirmed talks
 
+ DevOps@MySQL by akil mohan
 
 ## UnConfirmed talks
   - Measured Availability using NewRelic RUM - Sanjay Singh
